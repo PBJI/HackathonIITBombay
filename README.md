@@ -36,5 +36,5 @@ in problem statement 1 have been addressed, go on to solve problem statement 2
 which all documents your library is able to identify and extract data ●
 Approach/Design of your solution
 ● Attach the code
-● The tentative deadline for submission is 25th January 2023
+● The tentative deadline for submission is before 11:59 P.M 21st January.
 ● Link for submission: ecell.in/esummit/i-hack
